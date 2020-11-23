@@ -1,4 +1,4 @@
-# Anastaisiia Duplishcheva #WildNastyaAppeared! ![pikachu](https://cdn.emojidex.com/emoji/xxxhdpi/pikachu.png "pikachu")
+# Anastaisiia Duplishcheva
 Hi, I'm Nastya - a graduate 👩‍🎓 of the Vienna Coding Fullstack Bootcamp [upleveled.io](https://www.linkedin.com/company/upleveled-gmbh/) 🚀
 - 📷 I'm focused on Fullstack (Frontend & Backend)
 - ⚙️ I have basic knowledge in HTML, CSS, JavaScript, React, Node.js, Next.js, PostgreSQL
@@ -6,6 +6,7 @@ Hi, I'm Nastya - a graduate 👩‍🎓 of the Vienna Coding Fullstack Bootcamp 
 - 📫 How to reach me: [e-mail](https://mail.google.com/mail/?view=cm&source=mailto&to=a.duplishcheva@gmail.com)
 - ⚡ Fun fact: PhD in Math
 <!--
+#WildNastyaAppeared! ![pikachu](https://cdn.emojidex.com/emoji/xxxhdpi/pikachu.png "pikachu")
 Hi there 👋
 **anastasiia-lk/anastasiia-lk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Previously worked as a sales manager during 7 years.
 
