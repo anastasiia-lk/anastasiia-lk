@@ -1,4 +1,4 @@
-# Nastya Duplishcheva #WildNastyaAppeared! ⭐️
+# Anastaisiia Duplishcheva #WildNastyaAppeared! ⭐️
 Hi, I'm Nastya - a graduate 👩‍🎓 of the Vienna Coding Fullstack Bootcamp [upleveled.io](https://www.linkedin.com/company/upleveled-gmbh/) 🚀. 
 - 📷 I'm focused on Fullstack (Frontend & Backend)
 - ⚙️ I have basic knowledge in HTML, CSS, JavaScript, React, Node.js, Next.js, PostgreSQL, GitHub
