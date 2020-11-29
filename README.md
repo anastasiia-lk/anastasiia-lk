@@ -3,7 +3,7 @@ Hi, I'm Nastya - a graduate 👩‍🎓 of the Vienna Coding Fullstack Bootcamp 
 - 📷 I'm still exploring Fullstack (Frontend & Backend)
 - ⚙️ I'm familiar with HTML, CSS, JavaScript, React, Node.js, Next.js, PostgreSQL
 - 💼 Previously worked in different positions in FMCG Sales for 7 years
-- 📫 How to reach out to me: [e-mail](https://mail.google.com/mail/?view=cm&source=mailto&to=a.duplishcheva@gmail.com)
+- 📫 How to reach out to me: [e-mail](mailto:a.duplishcheva@gmail.com)
 - ⚡ Fun fact: PhD in Math
 <!--
 #WildNastyaAppeared! ![pikachu](https://cdn.emojidex.com/emoji/xxxhdpi/pikachu.png "pikachu")
